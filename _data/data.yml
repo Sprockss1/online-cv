@@ -79,30 +79,21 @@ experiences:
       company: Landryt, Bangalore
       details: |
         Developed backend application based on TypeScript on the Loopback framework for land-related company.
-          - Developed fully functional end-to-end REST APIs with
-JWT authentication, connecting to backend data source
-          - Integrated Razorpay in the payment process, configured
-generation of reports
+          - Developed fully functional end-to-end REST APIs with JWT authentication, connecting to backend data source
+          - Integrated Razorpay in the payment process, configured generation of reports
           - Implemented Google Pub/Sub architecture, i.e. a publisher and a subscriber as a messaging-oriented middleware
-          - Integrated Integromat and Docupilot webhooks for
-editing report parameters and generating PDF reports
-          - Built a MongoDB database for the application, integrated
-with Google Cloud Platform for data storage
-          - Successfully dockerized and deployed the loopback
-backend application in production on Google Cloud
+          - Integrated Integromat and Docupilot webhooks for editing report parameters and generating PDF reports
+          - Built a MongoDB database for the application, integrated with Google Cloud Platform for data storage
+          - Successfully dockerized and deployed the loopback backend application in production on Google Cloud
     - role: MatLab/Simulink Development Engineer
       time: May’19 - July’19
       company: KPIT Technologies Limited, Pune
       details: |
-        Designed a system to predict the temperature inside the
-cabin and the load put by HVAC on powertrain.
-          - Developed physics-based model of HVAC components and
-a real-time heat load system in MATLAB Simulink
-          - Validated the transient response from the model with the
-data obtained from tests on a transit bus
+        Designed a system to predict the temperature inside the cabin and the load put by HVAC on powertrain.
+          - Developed physics-based model of HVAC components and a real-time heat load system in MATLAB Simulink
+          - Validated the transient response from the model with the data obtained from tests on a transit bus
           - Introduced a cooling technique based on evaporative cooling and demonstrated its benefits through simulations
-          -  Achieved 11.3% decrease in power consumption with
-same effective cooling by adding DEC in simulation
+          - Achieved 11.3% decrease in power consumption with same effective cooling by adding DEC in simulation
 #     - role: UI Developer
 #       time: 2012 - 2014
 #       company: Amazon, London
